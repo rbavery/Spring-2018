@@ -110,3 +110,18 @@ http://deadsimplechat.com/pstat-134-234
 - Progress report - Due May 28 at 10 pm: one submission from each group
 
 - Presentation date sign up after May 28
+
+## June 4, 2018
+
+- Presentations will take place starting Wednesday this week
+
+- Making your project available through PSTAT 134/234 repository
+
+- Regular office hours on Tuesday
+
+- Extra credit for summary of presentations (up to three summaries/up to 2% of final grade)   
+  - Summary of project: data science questions and conclusions (or insights)
+  - What you liked about the project
+  - One or two questions about the project
+  - What other questions you would like to tackle if you worked on the project in plain words
+  - Thought experiment of what changes would be needed (data, methods, etc) and what you expect (or hope) to see
